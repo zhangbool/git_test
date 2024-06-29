@@ -2,6 +2,4 @@
 08
 08
 working
-bug
-bug
 feature_02
